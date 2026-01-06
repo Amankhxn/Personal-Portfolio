@@ -25,7 +25,7 @@ const projects = [
     title: "World AtLast",
     description: "Built a World Atlas web application that allows users to explore countries with population, currency, and capital details using dynamic routing, search, and filtering.",
     image: '/projects/project3.png',
-    tags: ["React", "Tailwind", "React-router-dom", "Dynamic routing"],
+    tags: ["React", "Tailwind","Dynamic routing"],
     link: 'https://world-atlast-five.vercel.app/',
     github: 'https://github.com/Amankhxn/World-Atlast.git'
   },
